@@ -1,0 +1,55 @@
+.img1{
+    border-color: rgb(4, 3, 3);
+    border-width: 5px;
+    border-style: solid;
+    margin-left: 1%;
+    padding-bottom: 1%;
+    
+}
+.img2{
+    border-color: rgb(4, 3, 3);
+    border-width: 5px;
+    border-style: solid;
+    margin-left: 1%;
+   
+    
+}
+.img3{
+    border-color: rgb(4, 3, 3);
+    border-width: 5px;
+    border-style: solid;
+    margin-left: 1%;
+    margin-top: 1%;
+   
+}
+.img4{
+    border-color: rgb(4, 3, 3);
+    border-width: 5px;
+    border-style: solid;
+    margin-left: 1%;
+    margin-top: 1%;
+
+}
+body{
+    background-color: rgb(231, 231, 231);
+}
+.but1{
+    margin-left: 40%;
+    background-color: green;
+   
+    color: rgb(246, 251, 248);
+
+}
+.but:hover{
+    background-color: rgb(90, 227, 10);
+    color: green;
+    box-sizing: border-box;
+    height: 50px;
+    transition:2;
+}
+.div1{
+    margin-left: 20%;
+    
+   
+}
+
